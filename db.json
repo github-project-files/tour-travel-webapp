@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "menu": [
+    {
+      "id": 0,
+      "name": "Flights"
+    },
+     {
+      "id": 1,
+      "name": "Train"
+    },
+     {
+      "id": 2,
+      "name": "Buses"
+    },
+     {
+      "id": 3,
+      "name": "Hotels"
+    },
+     {
+      "id": 4,
+      "name": "Login"
+    },
+     {
+      "id": 5,
+      "name": "SignUps"
+    }
+  ],
+    "profile": {
+    "id": 0,
+    "name":"mallikarjuna",
+    "email":"mallikarjuna@domain.com"
+  }
+}
